@@ -1,0 +1,26 @@
+{
+    {
+  "data": {
+    "email": "yash1@mailinator.com",
+    "accountNo": 7458564659976073,
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50Tm8iOjc0NTg1NjQ2NTk5NzYwNzMsImVtYWlsIjoieWFzaDFAbWFpbGluYXRvci5jb20iLCJpYXQiOjE2OTMzMTY1ODAsImV4cCI6MTY5MzQwMjk4MH0.RpSVR4_IePEsSsuEQkpXoR0OyfLHUfo7EihjEMX-qF4",
+    "firstName": "yash",
+    "lastName": "nagar"
+  },
+  "msg": "User Signin successfully.",
+  "success": true,
+  "statusCode": 201
+},
+{
+    "data": {
+      "email": "john1@mailinator.com",
+      "accountNo": 6767847544578532,
+      "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50Tm8iOjY3Njc4NDc1NDQ1Nzg1MzIsImVtYWlsIjoiam9objFAbWFpbGluYXRvci5jb20iLCJpYXQiOjE2OTMzMTY2NzgsImV4cCI6MTY5MzQwMzA3OH0.M2al0uvaxTQ1WLA6Xwmc0Gv7Fe1ibi-IgdmDT0_714w",
+      "firstName": "john",
+      "lastName": "bravo"
+    },
+    "msg": "User Signin successfully.",
+    "success": true,
+    "statusCode": 201
+  }
+}

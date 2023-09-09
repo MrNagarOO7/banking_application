@@ -1,0 +1,12 @@
+/* src/components/Header.css */
+.custom-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fafafa;
+  padding: 0 16px;
+
+  font-size: 16px;
+  font-weight: bold;
+  height: 50px;
+}

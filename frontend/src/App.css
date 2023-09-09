@@ -1,0 +1,35 @@
+.ant-btn-primary {
+  background-color: #06d6a0; /* Your desired primary color */
+  color: white; /* Text color */
+}
+
+.ant-btn-primary:hover {
+  background-color: white !important;
+  color: #06d6a0 !important;
+  border-color: #06d6a0 !important;
+}
+
+.ant-input {
+  border-radius: 6px;
+}
+
+.App {
+  padding-top: 20px;
+  padding: 20px;
+}
+
+.App .loginSignup {
+  text-align: center;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  background-color: #f0f2f5;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
